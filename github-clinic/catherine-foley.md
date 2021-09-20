@@ -6,11 +6,14 @@ We can make words **bold** or *italic*.
 
 ## We can make headers.
 
+### More headers
+
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
 1. bananas
 1. tamales
 1. cakes
+2. other stuff
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -24,6 +27,18 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ## Your turn
 
 **Click the "edit pencil and play around – what else can you change or add?**
+
+*italic*
+
+**bold**
+
+> Block quotes(?)
+
+Table | Column Title
+------|-------------
+Did | This
+Work? |   
+
 
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
